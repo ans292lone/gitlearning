@@ -1,0 +1,4 @@
+# File
+.env
+*.log
+Assets/
